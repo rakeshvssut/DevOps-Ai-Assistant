@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "price": 999,
+    "image": "https://media.istockphoto.com/id/1408387705/photo/social-media-marketing-social-issues-social-gathering.jpg?s=612x612&w=0&k=20&c=JV30g8nar60CKJnpruS6S4GS7WXQHG9BUi-j4a056PQ="
+  },
+  {
+    "id": 2,
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "price": 1099,
+    "image": "https://example.com/images/iphone-13.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Lenovo",
+    "model": "Lenovo 13",
+    "price": 1099,
+    "image": "https://media.istockphoto.com/id/1408387705/photo/social-media-marketing-social-issues-social-gathering.jpg?s=612x612&w=0&k=20&c=JV30g8nar60CKJnpruS6S4GS7WXQHG9BUi-j4a056PQ="
+  },
+  {
+    "id": 4,
+    "brand": "LG",
+    "model": "LG 13",
+    "price": 1099,
+    "image": "https://example.com/images/iphone-13.jpg"
+  }
+]

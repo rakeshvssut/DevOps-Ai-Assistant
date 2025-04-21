@@ -1,0 +1,4 @@
+npm install
+npm start
+
+if not working check docker file commands
